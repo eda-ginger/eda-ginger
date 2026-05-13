@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eda-ginger&show_icons=true&theme=shadow_green)
-
-[![eda_ginger's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eda_ginger)](https://github.com/anuraghazra/github-readme-stats)
